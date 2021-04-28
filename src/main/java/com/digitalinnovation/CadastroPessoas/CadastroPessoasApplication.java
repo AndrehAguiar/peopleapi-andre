@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
 @RestController
+@RequestMapping("/")
 public class CadastroPessoasApplication {
 
 	public static void main(String[] args) {
