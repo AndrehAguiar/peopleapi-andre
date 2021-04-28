@@ -6,7 +6,7 @@ Neste projeto foi desenvolvido um pequeno sistema para o gestão de pessoas de u
 
 Durante a sessão, serão desenvolvidos e abordados os seguintes tópicos:
 
-- Setup inicial de projeto com o Spring Boot Initializer
+- Setup inicial de projeto com o Spring Boot Initializr
 - Criação de modelo de dados para o mapeamento de entidades em bancos de dados
 - Desenvolvimento de operações de gestão de utilizadores (Cadastro, leitura, atualização e remoção de pessoas de um sistema).
 - Relação de cada uma das operações acima com o padrão arquitetural REST, e a explicação de cada um dos conceitos REST envolvidos durante o desenvolvimento do projeto.
