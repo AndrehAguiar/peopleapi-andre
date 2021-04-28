@@ -1,1 +1,1 @@
-web: java -jar out/artifacts/CadastroPessoas_jar
+web: java -jar out/artifacts/CadastroPessoas.jar
