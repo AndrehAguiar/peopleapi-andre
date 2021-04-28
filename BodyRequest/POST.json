@@ -1,0 +1,74 @@
+[
+  {
+    "firstName": "Tatiana",
+    "lastName": "Alves",
+    "cpf": "756.717.261-58",
+    "birthDate": "07-05-1979",
+    "phones": [
+      {
+        "type": "MOBILE",
+        "number": "(61)97333-1111"
+      },
+      {
+        "type": "HOME",
+        "number": "(61)6666-9999"
+      }
+    ]
+  },
+  {
+      "firstName":"Tiago",
+      "lastName":"Silva",
+      "cpf":"772.628.795-02",
+      "birthDate":"01-10-1999",
+      "phones": [
+          {
+              "type":"MOBILE",
+              "number":"(41)97444-7777"
+          },
+           {   "type":"HOME",
+              "number":"(41)5555-2222"}
+      ]
+  },
+  {
+      "firstName":"Bruno",
+      "lastName":"Souza",
+      "cpf":"593.038.221-29",
+      "birthDate":"05-07-1990",
+      "phones": [
+          {
+              "type":"MOBILE",
+              "number":"(11)97555-1111"
+          },
+           {   "type":"HOME",
+              "number":"(11)1111-6666"}
+      ]
+  },
+  {
+      "firstName":"Andre",
+      "lastName":"Gomes",
+      "cpf":"958.016.517-30",
+      "birthDate":"12-10-1992",
+      "phones": [
+          {
+              "type":"MOBILE",
+              "number":"(31)97888-2225"
+          },
+           {   "type":"HOME",
+              "number":"(31)3333-3333"}
+      ]
+  },
+  {
+      "firstName":"Roberta",
+      "lastName":"Almeida",
+      "cpf":"538.558.819-95",
+      "birthDate":"30-11-1985",
+      "phones": [
+          {
+              "type":"MOBILE",
+              "number":"(21)99777-8888"
+          },
+           {   "type":"HOME",
+              "number":"(21)7777-3333"}
+      ]
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": 1,
+  "firstName": "Cristina",
+  "lastName": "Alves",
+  "cpf": "756.717.261-58",
+  "birthDate": "07-10-1985",
+  "phones": [
+    {
+      "id": 1,
+      "type": "MOBILE",
+      "number": "(61)97333-1111"
+    },
+    {
+      "id": 2,
+      "type": "HOME",
+      "number": "(61)6666-9999"
+    }
+  ]
+}
