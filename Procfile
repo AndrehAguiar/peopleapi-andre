@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT  -jar out/artifacts/app_jar/app.jar
+web: java -Dserver.port=$PORT  -jar out/artifacts/CadastroPessoas_jar/CadastroPessoas.jar
