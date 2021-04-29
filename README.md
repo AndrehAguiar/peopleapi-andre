@@ -58,6 +58,7 @@ Aprenda a construir do zero uma API REST com Spring Boot para cadastro e gerenci
 ### Rodrigo Peleias
 
 Software Developer, ClickBus
+###### [Digital Innovation One](https://digitalinnovation.one/sign-up?ref=NL9EADWVZW)
 
 ---
 <a href="https://www.linkedin.com/in/rodrigopeleias/" target="_blank">
